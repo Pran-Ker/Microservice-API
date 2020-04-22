@@ -1,8 +1,7 @@
 # Udacity DevOps Project 4
 Udacity Project 4 to operationalise a Machine Learning Microservice API.
 
-
-
+[![CircleCI](https://circleci.com/gh/Pran-Ker/Microservice-API.svg?style=svg)](https://circleci.com/gh/Pran-Ker/Microservice-API/12)
 
 ## Project Overview
 
