@@ -1,4 +1,4 @@
-# Udacity DevOps Proejct 4
+# Udacity DevOps Project 4
 Udacity Project 4 to operationalise a Machine Learning Microservice API.
 
 
